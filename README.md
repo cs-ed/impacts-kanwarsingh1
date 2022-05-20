@@ -1,3 +1,6 @@
+![alt text] ![IMG-6497](https://user-images.githubusercontent.com/89374999/169427251-12bfc48f-1e35-4e3f-91e0-7eda848f5794.jpg)
+
+
 # Impacts on Society
 Name: Ethics of Robotics and Conputer Programming
 Grade Level: 7-8 
