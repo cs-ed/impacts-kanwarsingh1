@@ -34,9 +34,17 @@ The second day includes students researching the robots on their own and answeri
 
 Students will be assessed based on their rationale for their written work. If they are able to explain their work, then they will earn the credit. Students with only opinions and no research will have points taken off. 
 
-### Outcomes
-The lesson plan is designed to promote inclusion and equitable resources. Using exoskeletons or humanoids to replace manual labor jobs affects employment, but when we realistically look at who's employment is it really affecting? Does everyone have access to becoming financially secure and who is being pushed out? What are some solutions? Who can afford these resources? Is artificial intelligence racist or can it be, has it been? What is the margin of error? When we typically (at least in my career) talk about robotics, and computer programming we shed light on the possibilities and potential of computer science because it is true, we are going into space, there is new and advanced cars developing but at the same time can we continue to develop the innovations and be fair to everyone. I believe there are advancements and solutions and this generation of future scholars are capable of making our future equitable and inclusive. 
+Students will be given a quiz following the discussion and written prompt:
+1. What does an industrial robot do?
+2. What function does a humanoid robot serve, and who does it or can it help?
+3. Should technology be accessible to everyone, why or why not?
+4. Going back to our discussion, how do exoskeletons serve a purpose? 
+5. What is one type of robot you would design and for what purpose? What would be the pro's and con's? Who would it serve?
+6. What are some of the benefits of an insect robot. 
 
-###Citations
+### Outcomes
+The lesson plan is designed to promote inclusion and equitable resources. Using exoskeletons or humanoids to replace manual labor jobs affects employment, but when we realistically look at who's employment is it really affecting? Does everyone have access to becoming financially secure and who is being pushed out? What are some solutions? Who can afford these resources? Is artificial intelligence racist or can it be, has it been? What is the margin of error? This flow of discussion allows students to think about how technology is influencing us. Realistically, yes there may be a job shortage due to industrial robots in factories or self driving cars taking the place of uber, but at the same time there will be new jobs to take. We don't konw, what we don't know yet, and what I mean by that is, 10 years ago we didn't have a computer science teaching program or 30 years ago an adavanced robotics class because we were still growing and it is the same way we are growing now. With that growth, this lesson challenges the students. 
+
+### Citations
 https://bloomstaxonomy.net/ 
 Forehand, M. (2010). Bloom’s taxonomy. Emerging perspectives on learning, teaching, and technology, 41(4), 47-56. 
