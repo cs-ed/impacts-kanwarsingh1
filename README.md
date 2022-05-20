@@ -49,6 +49,6 @@ Students will be given a quiz following the discussion and written prompt:
 ### Outcomes
 The lesson plan is designed to promote inclusion and equitable resources. Using exoskeletons or humanoids to replace manual labor jobs affects employment, but when we realistically look at who's employment is it really affecting? Does everyone have access to becoming financially secure and who is being pushed out? What are some solutions? Who can afford these resources? Is artificial intelligence racist or can it be, has it been? What is the margin of error? This flow of discussion allows students to think about how technology is influencing us. Realistically, yes there may be a job shortage due to industrial robots in factories or self driving cars taking the place of uber, but at the same time there will be new jobs to take. We don't konw, what we don't know yet, and what I mean by that is, 10 years ago we didn't have a computer science teaching program or 30 years ago an adavanced robotics class because we were still growing and it is the same way we are growing now. With that growth, this lesson challenges the students. 
 
-### Citations
+### Citations 
 https://bloomstaxonomy.net/ 
 Forehand, M. (2010). Bloom’s taxonomy. Emerging perspectives on learning, teaching, and technology, 41(4), 47-56. 
